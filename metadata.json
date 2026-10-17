@@ -1,0 +1,7 @@
+{
+  "name": "FinFlow - Expense & Cashflow Tracker",
+  "description": "FinTech financial dashboard tracking income vs expenditure ratios with running balance calculators, categorical breakdowns, and cashflow projections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
